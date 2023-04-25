@@ -1,0 +1,1 @@
+This pattern is widely used in sorting and seraching algorithms.

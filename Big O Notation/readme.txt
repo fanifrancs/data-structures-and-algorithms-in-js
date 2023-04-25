@@ -1,0 +1,1 @@
+Big O Notation is a simple mathematical expression that describes the performance and efficiency of an algorithm(the runtime complexity and space complexity)
